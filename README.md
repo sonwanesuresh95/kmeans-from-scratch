@@ -1,2 +1,2 @@
 # kmeans-from-scratch
-implementation of kmeans algorithm from scratch
+mathematical implementation of kmeans algorithm 
